@@ -1,8 +1,6 @@
 <?php
 
-
 namespace component\JsonDecoder;
-
 
 class JsonResult
 {
