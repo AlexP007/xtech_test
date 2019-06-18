@@ -14,7 +14,5 @@ $decoder = new JsonDecoder();
 
 $result = $decoder->setJson($input)->decode();
 
-header();
-
 print json_encode($result);
 
